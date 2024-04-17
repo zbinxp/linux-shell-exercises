@@ -1,0 +1,6 @@
+Requirements:
+
+Ask user to enter two numbers
+User can enter real numbers also
+Use bc command and piping to do
+

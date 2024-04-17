@@ -1,0 +1,11 @@
+version: '3'
+services:
+  ubuntu:
+    image: ubuntu:latest
+    command: bash -c "apt-get update && apt-get install -y openssh-server && service ssh start && tail -f /dev/null"
+    volumes:
+      - ssh-data:/etc/ssh
+    ports:
+      - "2222:22"
+volumes:
+  ssh-data:
