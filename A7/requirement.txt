@@ -1,0 +1,13 @@
+Requirements:
+
+Using command-line pass n arguments.
+Compare all these arguments and print the largest value
+Print error in-case no arguments.
+Number of arguments can vary every time.
+
+$ ./max.sh 5 1 4 8
+max value is 8
+$ ./max.sh 6
+max value is 6
+$ ./max.sh
+Error: no arguments

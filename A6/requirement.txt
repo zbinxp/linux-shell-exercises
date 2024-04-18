@@ -1,0 +1,13 @@
+Requirements:
+
+User must provide two numbers and operator through command-line
+Based on input do the operation and show the output.
+Use case to handle multiple operations
+Use expr or bc commands
+$ ./calc.sh 11 + 31
+42
+$ ./calc.sh 2 \* 5
+10
+or
+$ ./calc.sh 2 x 5
+10
