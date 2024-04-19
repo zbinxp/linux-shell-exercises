@@ -1,0 +1,14 @@
+Requirements:
+
+Read an multi-digit number from user and reverse the number.
+Its not just printing in reverse order
+You have to extract each digit and convert to reverse.
+When ‘0’ comes as last digit, discard while reversing.
+
+Test cases:
+$ ./reverse.sh 12345
+54321
+$ ./reverse.sh 1200
+21
+$ ./reverse.sh
+Error: No argument passed

@@ -1,0 +1,8 @@
+Requirements:
+
+Pass a filename through command-line.
+Delete all the empty lines from that file and save it back.
+
+Test cases:
+./del_empty_lines.sh file.txt
+Empty lines removed
