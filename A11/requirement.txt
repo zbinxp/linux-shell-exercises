@@ -1,0 +1,11 @@
+A11: Read ‘n’ and generate Fibonacci numbers less than or equal to n
+Requirements:
+
+Remember n is not number of elements to print
+Its the boundary of elements to print.
+
+Test case:
+$./gen_fib.sh
+Enter the limit for fib series:10
+0,1,1,2,3,5,8
+

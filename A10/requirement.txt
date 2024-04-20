@@ -1,0 +1,15 @@
+A10: Write a script to perform arithmetic operation on digits of a given number depending upon the operator
+Requirements:
+
+Read a string from user, must end with a operator symbol.
+Number can be any length but must end with an operator character
+Always do left to right operations.
+If 8312 – passed do 8-3-1-2 = 2
+
+Test case:
+$ ./digit_arith.sh
+Enter the string:8421-
+Sub is 1
+$ ./digit_arith.sh
+Enter the string:1234*
+Mul is 24
