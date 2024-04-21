@@ -1,0 +1,11 @@
+Write a script to print the length of each and every string using arrays
+Requirements:
+
+Pass some names or strings from command-line.
+Print all the string lengths one-by-one.
+Number of argument may vary.
+
+Test case:
+$ ./str_len.sh hello world
+hello   5
+world   5
