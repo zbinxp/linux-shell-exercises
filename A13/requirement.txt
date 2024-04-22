@@ -1,0 +1,8 @@
+Requirements:
+
+To print a black box echo -e -n “\\\\e[40m” ” “
+To print a white box echo -e -n “\\\\e[47m” ” “
+Call the commands in a loop.
+After 8 columns make to normal color.
+To make it normal echo -e -n “\\\\e[0m” ” “
+
