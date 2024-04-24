@@ -1,0 +1,24 @@
+ Write a script to print the following system information
+
+Sys Info Menu:
+1.Currently logged users
+2.Your shell directory
+3.Home directory
+4.OS name & version
+5.Current working directory
+6.Number of users logged in
+7.Show all available shells in your system
+8.Hard disk information
+9.CPU information
+10.Memory information
+11.File system information
+12.Currently running process
+13.Exit
+
+Requirements:
+
+Provide a menu for user about what information he wants to check
+Using switch case display output for selected option.
+After the system info is display, ask user whether to continue
+
+
