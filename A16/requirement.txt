@@ -1,0 +1,9 @@
+Read ‘n’ and print the greatest Fibonacci number less than or equal to n
+
+Test case:
+$ ./gen_fib
+Enter limits: 10
+Greatest val: 8
+$ ./gen_fib
+Enter limits: 33
+Greatest val: 21
