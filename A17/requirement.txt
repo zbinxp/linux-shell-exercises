@@ -1,0 +1,12 @@
+Write a script to rename a file/directory replaced by lower/upper case letters
+Requirements:
+
+Rename all files from current directory to lowercase letters.
+Rename all directories from current directories to uppercase.
+Digits and other symbols should remain same.
+
+Test cases:
+$ ./change_case.sh ./HeLLo
+# changed into ./hEllO
+$ ./change_case.sh ./TestFolder
+# both folder and files in folder get renamed
