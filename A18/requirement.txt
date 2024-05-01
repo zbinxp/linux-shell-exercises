@@ -1,0 +1,10 @@
+Write a script to rename current working directory with given name
+Requirements:
+
+After execting this script your current directory will be renamed to given name
+Pass new name through command-line.
+
+Test case:
+$ cd test_folder
+$ ./rename_cur_dir.sh Test
+current folder name changed into 'Test'
