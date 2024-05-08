@@ -1,0 +1,7 @@
+Given album name and directory create a script to name files properly by inserting index numbers.
+Requirements:
+
+Aim of this project is to rename all files in one directory with a common name and indexing.
+Usually when we takes pics in camera or mobile default names are like DSN001.jpg, DSN002.jpg
+These files need to be renamed by user given prefix name
+Prefix name pass through command-line argument.
